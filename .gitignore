@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+.pytest_cache/
+
+.env
+.venv
+
+.vscode/
+
+*.db
+*.sqlite
+*.sqlite3
+
+*.jsonl.gz
+
+!init/
+
+.DS_Store
+
+readme/
+/powerbi/co2-pb.pbix
