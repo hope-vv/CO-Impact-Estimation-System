@@ -214,5 +214,4 @@ WHERE id NOT IN (SELECT ingredient_id FROM ingredient_emissions);
 ## References
 
 - See [README.md](README.md) for system overview
-- See [IMPACT.md](IMPACT.md) for methodology
 - See [schema/database.sql](schema/database.sql) for database structure
